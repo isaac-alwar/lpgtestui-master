@@ -2,9 +2,9 @@
 
 The Rest API Data loads onto localstorage, though offline mode is not functioning as it would.
 
-If I have enough time I will try using Contexts to pass props and also consider adding state management to the App. That will ensure localstorage hold the app state data-wise therefore not requiring any rehydration from the REST API.
+If I have enough time I will try using Contexts to pass props and also consider adding state management to the App. That will ensure localstorage maintains the app state data-wise and therefore not requiring any rehydration from REST API calls.
 
-The API, has an SSL protection layer, so to use the lpgAPI-functional services, please contact me so that I can allow non SSL calls to the data-server hosted on Azure.
+The API, has an SSL protection layer, so to use the lpgAPI-functional services, please contact me so that I can allow for REST calls to the data-server hosted on Azure.
 
 In the project directory, you can run:
 
